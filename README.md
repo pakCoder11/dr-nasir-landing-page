@@ -40,6 +40,5 @@ This project is a static web landing page aimed at establishing credibility, bui
 └── README.md        # Project Documentation
 ```
 
-## 📄 License
+Dr Nasir Mustafa is a fictional character, he is a AI character used in this website to present a business case study to attract customers.
 
-All rights reserved to Dr. Nasir Mustafa.
